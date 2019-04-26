@@ -1,7 +1,7 @@
-# algorithms
+# Algorithms
 A compiled list of resources on algorithms and data structures
 
-## problem websites
+## Problem Websites
 
 [leetcode](https://leetcode.com)
 
@@ -10,3 +10,7 @@ A compiled list of resources on algorithms and data structures
 [kattis](https://open.kattis.com)
 
 [projecteuler](https://projecteuler.net)
+
+## Resource Websites
+
+[khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms)
