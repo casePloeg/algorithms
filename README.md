@@ -14,3 +14,7 @@ A compiled list of resources on algorithms and data structures
 ## Resource Websites
 
 [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+## Youtube Channels
+
+[Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
